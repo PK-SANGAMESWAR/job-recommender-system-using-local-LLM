@@ -1,5 +1,7 @@
-streamlit
-ollama
-pymupdf
-python-dotenv
-apify-client
+apify-client>=2.3.0
+mcp[cli]>=1.23.1
+ollama>=0.6.1
+pymupdf>=1.26.6
+python-dotenv>=1.2.1
+streamlit>=1.52.1
+langchain-ollama
